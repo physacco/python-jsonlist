@@ -34,5 +34,10 @@ python >= 3.3
 
 ## Installation
 
+Download or clone this repository and run the following command:
+
     python3 setup.py install
 
+Or you can use [pip](https://github.com/pypa/pip) to install it:
+
+    pip3 install -U jsonlist
